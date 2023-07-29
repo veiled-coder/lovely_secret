@@ -7,7 +7,12 @@ The project "lovely_secret" is an implementation of the famous game Mastermind. 
 1. Open the terminal.
 2. Navigate to the folder containing the game files.
 3. Type make and press Enter to compile the program.
-4. To play the game with a randomly generated secret code, type ./my_mastermind -c and press Enter.
+4. To play the game with a randomly generated secret code
+
+```
+ type ./my_mastermind -c and press Enter.
+
+```
 5. To play the game with a specific secret code, replace [CODE] with the desired 4-digit code and type ./my_mastermind -c [CODE] in the terminal, then press Enter.
 6. By default, the player has 10 attempts to find the secret code. To specify a different number of attempts, add the -t [ATTEMPTS] flag after the secret code. For example, to play with 5 attempts, type ./my_mastermind -c [CODE] -t 5 and press Enter.
 7. After each input, the game will indicate the number of well-placed pieces and the number of misplaced pieces.

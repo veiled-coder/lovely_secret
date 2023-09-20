@@ -1,8 +1,8 @@
-# Welcome to Lovely Secret
+# Welcome to MasterMind
 ***
 
 ## Description
-The project "lovely_secret" is an implementation of the famous game Mastermind. The game involves a secret code composed of four distinct pieces from a set of nine different colors. The player has ten attempts to guess the secret code. After each input, the game provides feedback to the player in the form of the number of well-placed pieces and the number of misplaced pieces.
+The project "MasterMind" is an implementation of the famous game Mastermind. The game involves a secret code composed of four distinct pieces from a set of nine different colors. The player has ten attempts to guess the secret code. After each input, the game provides feedback to the player in the form of the number of well-placed pieces and the number of misplaced pieces.
 ## How to play
 1. Open the terminal.
 2. Navigate to the folder containing the game files.
